@@ -1,9 +1,10 @@
 FILE DI LOG:
 
-DATA            AUTORE              ORA         COMMIT
-11/02/2018      Rocchio Pietro      22:09       Add README.md & initialize repository.
-11/02/2018      Rocchio Pietro      22:13       Add function.js - spiega come creare e richiamare funzioni.
-11/02/2018      Rocchio Pietro      22:14       Add functionValue.js - spiega come utilizare funzioni aventi parametri
-11/20/2018      Rocchio Pietro      22:15       Tipi di funzioni, visibilità delle variabili ed introduzione agli oggetti.
-11/02/2018      Rocchio Pietro      22:17       Add var.js - Tipi di variabili, dichiarazione ed assegnazione.
-11/02/2018      Rocchio Pietro      22:20       Mod README.md.
+DATA            AUTORE      ORA         COMMIT
+11/02/2018      Master      22:09       Add README.md & initialize repository.
+11/02/2018      Master      22:13       Add function.js - spiega come creare e richiamare funzioni.
+11/02/2018      Master      22:14       Add functionValue.js - spiega come utilizare funzioni aventi parametri
+11/20/2018      Master      22:15       Tipi di funzioni, visibilità delle variabili ed introduzione agli oggetti.
+11/02/2018      Master      22:17       Add var.js - Tipi di variabili, dichiarazione ed assegnazione.
+11/02/2018      Master      22:20       Mod README.md.
+13/02/2018      Master      22:15       Add other example for object.

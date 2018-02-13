@@ -20,3 +20,32 @@ var hotel = {
         return this.rooms - this.booked;
     }
 }
+
+//ES 2:
+var auto = {
+    productor: ['ford', 'BMW', 'Abarth'],
+    maxSpeed: 150,
+    fuel: ['diesel', 'benzina'],
+    posti: 5,
+    capFuel: 20, //liters,
+    marce: 5,
+    CCMotor: 990,
+    radioFR: '',
+
+    GetRadioFR: function() {
+        radioFR = '152.2kH';
+        return 'Radio freq is: ' + radioFR;
+    },
+
+    GetPR: function() {
+        var PR;
+        if (productor == 'ford') {
+            PR = 'Ford';
+        } else if (productor == 'BMW') {
+            PR = 'BMW';
+        } else if (productor == 'Abarth') {
+            PR = 'Abarth';
+        }
+        return 'The PR is: ' + PR;
+    }
+}
